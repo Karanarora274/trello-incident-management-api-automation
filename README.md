@@ -111,17 +111,8 @@ Collection Runner
 
 ## How To Run
 
-1. Import Postman collection
-2. Import environment file
+1. Import Postman collection from the collections folder
+2. Import environment file from the environment folder
 3. Add Trello API credentials
 4. Run collection using Collection Runner
 
----
-
-## Future Improvements
-
-- Newman CLI integration
-- HTML reporting
-- GitHub Actions CI/CD pipeline
-- REST Assured implementation
-- Slack/Webhook integrations
