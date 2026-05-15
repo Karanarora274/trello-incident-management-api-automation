@@ -17,7 +17,9 @@ The project demonstrates API testing, workflow automation, request chaining, dyn
 
 ## Workflow Architecture
 
-![Flowchart](screenshots/Workflow.png)
+<p align="center">
+  <img src="screenshots/Workflow.png" width="900">
+</p>
 ---
 
 ## Features
