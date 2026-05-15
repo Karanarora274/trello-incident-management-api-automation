@@ -2,7 +2,7 @@
 
 ## Workflow Board
 
-![Workflow Board](screenshots/Trello-Board.png
+![Workflow Board](screenshots/Trello-Board.png)
 
 ## Project Overview
 This project simulates a real-world incident management workflow using the Trello REST API and Postman automation.
