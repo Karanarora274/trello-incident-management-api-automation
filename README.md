@@ -1,4 +1,6 @@
 # Trello Incident Workflow API Automation
+![API Automation](https://img.shields.io/badge/API%2C%20Automation%2C%20Blue)
+
 
 ## Workflow Board
 
