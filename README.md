@@ -14,13 +14,13 @@ The project demonstrates API testing, workflow automation, request chaining, dyn
 ## Workflow Architecture
 
 Incident Creation
-↓
+→
 Incident Retrieval
-↓
+→
 Workflow State Updates
-↓
+→
 Incident Detail Updates
-↓
+→
 Incident Cleanup
 
 ---
