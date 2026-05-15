@@ -85,9 +85,33 @@ Incident Cleanup
 
 ---
 
-## Screenshots
+## Postman Collection Structure
 
-(Add screenshots here)
+The Postman collection is organized into workflow-based folders covering CRUD operations, workflow transitions, and negative testing.
+
+Collection Structure
+
+![Collection](screenshots/Collection-in-Postman.png)
+
+---
+
+## Create Incident Automation
+
+Demonstrates dynamic incident generation, parameterized requests, and automatic card ID capture using Post-response scripts.
+
+Create Incident
+
+![Incident](screenshots/Create-Incident-Card.png)
+
+---
+
+## Collection Runner Execution
+
+Shows end-to-end automation of the incident lifecycle workflow using Collection Runner.
+
+Collection Runner
+
+![Run](screenshots/Collection-Run.png)
 
 ---
 
